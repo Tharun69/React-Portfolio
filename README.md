@@ -13,7 +13,7 @@ React Router v4
 
 # Start App
 
-1.Clone repo, install, cd into folder and run:
-2.npm install
+1.Clone repo, install, cd into folder and run:  
+2.npm install. 
 3.npm start
 
