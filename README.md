@@ -14,7 +14,8 @@ A React based personal portfolio app using create-react-app and React Router v4.
 
 # Start App
 
-* Clone/Download the repo.  
+* Clone/Download the repo.[https://github.com/Tharun69/React-Portfolio.git](https://github.com/Tharun69/React-Portfolio.git)    
+* cd into folder.  
 * Run ```npm install```.  
 * Change the values in ```src/components``` to suit your use-case.  
 * Run ```npm start``` to spin the up the local dev server port 3000. [http://localhost:3000](http://localhost:3000).  
